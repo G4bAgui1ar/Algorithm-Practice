@@ -1,0 +1,15 @@
+C:\Users\USER\Algorithm-Practice\AlgorithmPractice\obj\Debug\net8.0\AlgorithmPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Algorithm-Practice\AlgorithmPractice\obj\Debug\net8.0\AlgorithmPractice.AssemblyInfoInputs.cache
+C:\Users\USER\Algorithm-Practice\AlgorithmPractice\obj\Debug\net8.0\AlgorithmPractice.AssemblyInfo.cs
+C:\Users\USER\Algorithm-Practice\AlgorithmPractice\obj\Debug\net8.0\AlgorithmPractice.csproj.CoreCompileInputs.cache
+C:\Users\USER\Algorithm-Practice\AlgorithmPractice\obj\Debug\net8.0\AlgorithmPractice.sourcelink.json
+C:\Users\USER\Algorithm-Practice\AlgorithmPractice\bin\Debug\net8.0\AlgorithmPractice.exe
+C:\Users\USER\Algorithm-Practice\AlgorithmPractice\bin\Debug\net8.0\AlgorithmPractice.deps.json
+C:\Users\USER\Algorithm-Practice\AlgorithmPractice\bin\Debug\net8.0\AlgorithmPractice.runtimeconfig.json
+C:\Users\USER\Algorithm-Practice\AlgorithmPractice\bin\Debug\net8.0\AlgorithmPractice.dll
+C:\Users\USER\Algorithm-Practice\AlgorithmPractice\bin\Debug\net8.0\AlgorithmPractice.pdb
+C:\Users\USER\Algorithm-Practice\AlgorithmPractice\obj\Debug\net8.0\AlgorithmPractice.dll
+C:\Users\USER\Algorithm-Practice\AlgorithmPractice\obj\Debug\net8.0\refint\AlgorithmPractice.dll
+C:\Users\USER\Algorithm-Practice\AlgorithmPractice\obj\Debug\net8.0\AlgorithmPractice.pdb
+C:\Users\USER\Algorithm-Practice\AlgorithmPractice\obj\Debug\net8.0\AlgorithmPractice.genruntimeconfig.cache
+C:\Users\USER\Algorithm-Practice\AlgorithmPractice\obj\Debug\net8.0\ref\AlgorithmPractice.dll
