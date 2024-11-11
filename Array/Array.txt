@@ -1,0 +1,112 @@
+ARRAYS
+
+Overview
+An Array is a data structure that stores elements of the same type in a fixed-size sequence. Arrays are efficient for accessing elements by index but have a fixed size, meaning they cannot dynamically grow or shrink.
+
+Key Concepts
+- Fixed Size: Arrays have a fixed size defined at creation and cannot be resized.
+- Indexed Access: Elements are accessed by their index, with the first element at index 0.
+- Basic Operations: Creation, access by index, updating values, and traversing through elements.
+
+Syntax for Declaring Arrays in Each Language:
+JAVA
+int[] array = new int[5];            // Initializes with size 5
+int[] array = {1, 2, 3, 4, 5};       // Initializes with values
+
+Python
+array = [1, 2, 3, 4, 5]             # Directly initializes with values
+
+C#
+int[] array = new int[5];            // Initializes with size 5
+int[] array = {1, 2, 3, 4, 5};       // Initializes with values
+
+JavaScript
+let array = new Array(5);            // Initializes with size 5
+let array = [1, 2, 3, 4, 5];         // Initializes with values
+
+PHP
+$array = array(1, 2, 3, 4, 5);       // Initializes with values
+
+C
+int array[5];                        // Declares an array of size 5
+int array[] = {1, 2, 3, 4, 5};       // Initializes with values
+
+C++
+int array[5];                        // Declares an array of size 5
+int array[] = {1, 2, 3, 4, 5};       // Initializes with values
+
+TypeScript
+let array: number[] = [1, 2, 3, 4, 5]; // Initializes with values
+
+Bash/Shell
+array=(1 2 3 4 5)                    # Initializes with values
+
+
+SAMPLE PROBLEM
+Create an array with 5 integers and replace the middle element with 99. Print the modified array.
+
+Solutions
+JAVA
+int[] array = {1, 2, 3, 4, 5};
+array[2] = 99;
+for (int i : array) {
+    System.out.print(i + " ");
+}
+
+Python
+array = [1, 2, 3, 4, 5]
+array[2] = 99
+print(" ".join(map(str, array)))
+
+C#
+int[] array = {1, 2, 3, 4, 5};
+array[2] = 99;
+foreach (int i in array) {
+    Console.Write(i + " ");
+}
+
+JavaScript
+let array = [1, 2, 3, 4, 5];
+array[2] = 99;
+console.log(array.join(" "));
+
+PHP
+$array = array(1, 2, 3, 4, 5);
+$array[2] = 99;
+echo implode(" ", $array);
+
+C
+int array[] = {1, 2, 3, 4, 5};
+array[2] = 99;
+for (int i = 0; i < 5; i++) {
+    printf("%d ", array[i]);
+}
+
+C++
+int array[] = {1, 2, 3, 4, 5};
+array[2] = 99;
+for (int i = 0; i < 5; i++) {
+    std::cout << array[i] << " ";
+}
+
+TypeScript
+let array: number[] = [1, 2, 3, 4, 5];
+array[2] = 99;
+console.log(array.join(" "));
+
+Bash/Shell
+array=(1 2 3 4 5)
+array[2]=99
+echo "${array[@]}"
+
+
+EXERCISES
+1. Create and Print: Create an array with 5 elements and print each element.
+
+2. Modify an Element: Create an array with 10 elements, replace the 5th element with 55, and print the entire array.
+
+3. Sum of Array Elements: Create an array with any 5 integers, then calculate and print the sum of all elements.
+
+4. Find the Maximum Value: Write code to find the maximum value in an array of 8 integers.
+
+5. Reverse Array: Given an array of 6 elements, write code to reverse the elements of the array.
